@@ -1,0 +1,10 @@
+﻿  PCA.cpp
+c:\users\серёжа\source\repos\lab1\lab1\pca.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\серёжа\source\repos\lab1\lab1\pca.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\серёжа\source\repos\lab1\lab1\pca.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\серёжа\source\repos\lab1\lab1\pca.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\серёжа\source\repos\lab1\lab1\pca.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\серёжа\source\repos\lab1\lab1\pca.cpp(58): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  Lab1.vcxproj -> C:\Users\Серёжа\source\repos\Lab1\Debug\Lab1.exe
